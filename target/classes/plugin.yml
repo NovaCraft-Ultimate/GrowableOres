@@ -1,0 +1,13 @@
+name: GrowableOres
+main: net.spideynn.bukkit.growableores.GrowableOres
+version: 0.9
+website: https://novacraft.me/
+author: Spideynn
+description: Growable Ores
+permissions:
+    growableores.plant:
+        description: Permission to plant an OrePlant.
+        default: true
+    growableores.harvest:
+        description: Permission to harvest an OrePlant.
+        default: true

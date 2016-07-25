@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GrowableOres">
+    <output-path>$PROJECT_DIR$/out/artifacts/GrowableOres</output-path>
+    <root id="archive" name="GrowableOres.jar">
+      <element id="module-output" name="GrowableOresSpigot" />
+    </root>
+  </artifact>
+</component>
