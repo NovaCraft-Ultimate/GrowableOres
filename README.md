@@ -1,2 +1,2 @@
 # GrowableOres
-GrowableOres used on the Factions server.
+GrowableOres used on the Factions server. Test
